@@ -519,6 +519,12 @@
   margin-right: 25px;
 }
 
+#stageInhoud {
+  margin-top: 18px;
+    width: 775px;
+  margin-left: 20px;
+}
+
 /*CVPassword*/
 /*Scrollbar*/
 ::-webkit-scrollbar {
